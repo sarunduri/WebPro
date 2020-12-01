@@ -1,0 +1,22 @@
+Trampil
+Tues, Dec 1, 2020
+
+
+
+HTML
+
+HTML (Hyper Text Markup Language)
+
+
+Fungsi: 
+
+- Halaman Static (tidak berubah) dalam komposisi Web.
+
+
+Komponen HTML:
+
+- Tag
+- Markup
+
+
+
